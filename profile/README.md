@@ -11,6 +11,6 @@ We're looking for interested maintainers to contribute to these repositories:
 * [rbx-dom](https://github.com/azul-rbx/) - cross-platform libraries that help you work with Roblox instances / files
 
 ## Our Sponsors
-<img src="paradoxum-games.png" alt="The Paradoxum Games logo, in white" width=400 />
+<img src="/profile/paradoxum-games.png" alt="The Paradoxum Games logo, in white" width=400 />
 
 
